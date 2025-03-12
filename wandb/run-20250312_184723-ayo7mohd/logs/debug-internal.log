@@ -1,0 +1,31 @@
+{"time":"2025-03-12T18:47:23.2695742+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\wandb\\run-20250312_184723-ayo7mohd\\logs\\debug-core.log"}
+{"time":"2025-03-12T18:47:23.4920035+01:00","level":"INFO","msg":"created new stream","id":"ayo7mohd"}
+{"time":"2025-03-12T18:47:23.4920035+01:00","level":"INFO","msg":"stream: started","id":"ayo7mohd"}
+{"time":"2025-03-12T18:47:23.4920035+01:00","level":"INFO","msg":"handler: started","stream_id":"ayo7mohd"}
+{"time":"2025-03-12T18:47:23.4920035+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ayo7mohd"}
+{"time":"2025-03-12T18:47:23.4920035+01:00","level":"INFO","msg":"sender: started","stream_id":"ayo7mohd"}
+{"time":"2025-03-12T18:47:23.8528895+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T18:47:23.9567456+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:47:29.2852911+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:47:29.7469471+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:47:31.4981782+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:47:35.6878835+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:47:37.2314328+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:47:50.4896361+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:47:59.9695624+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:00.12907+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:01.6163013+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:01.6168276+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:03.3608223+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:03.3613256+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:05.4082113+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:05.40898+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:07.0718533+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:07.0727433+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:10.4418466+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:10.5381689+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:48:13.061065+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:48:13.0615717+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T18:52:35.9769621+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-12T18:52:36.454153+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T19:11:39.6144104+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
