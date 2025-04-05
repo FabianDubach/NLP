@@ -1,0 +1,24 @@
+{"time":"2025-04-04T21:35:33.2045116+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250404_213532-pit6waoj\\logs\\debug-core.log"}
+{"time":"2025-04-04T21:35:33.562957+02:00","level":"INFO","msg":"created new stream","id":"pit6waoj"}
+{"time":"2025-04-04T21:35:33.562957+02:00","level":"INFO","msg":"stream: started","id":"pit6waoj"}
+{"time":"2025-04-04T21:35:33.5634697+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:35:33.5634697+02:00","level":"INFO","msg":"sender: started","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:35:33.562957+02:00","level":"INFO","msg":"handler: started","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:35:33.9419602+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T21:35:34.2504894+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T21:35:34.2562933+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T21:35:34.2608868+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T21:35:34.2678963+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T21:35:34.2699015+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T21:35:34.3049935+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T21:35:34.3080853+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T21:35:34.3158572+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T21:47:13.7819345+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-04T21:47:13.7825133+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-04T21:47:14.6227262+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-04T21:47:14.7893789+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 101-102, summary, console lines 0-0","runtime_seconds":0.1666527}],"total_operations":1}}
+{"time":"2025-04-04T21:47:14.8625676+02:00","level":"INFO","msg":"stream: closing","id":"pit6waoj"}
+{"time":"2025-04-04T21:47:14.8625676+02:00","level":"INFO","msg":"handler: closed","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:47:14.8625676+02:00","level":"INFO","msg":"sender: closed","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:47:14.8625676+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pit6waoj"}
+{"time":"2025-04-04T21:47:14.8698677+02:00","level":"INFO","msg":"stream: closed","id":"pit6waoj"}

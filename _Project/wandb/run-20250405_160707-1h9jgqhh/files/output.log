@@ -1,0 +1,72 @@
+RNN Train Dataset Length: 43705
+RNN Train Dataset Length: 43705
+Item 0 type: <class 'tuple'>
+Item 0 length: 4
+Item 0 contents: (tensor([[-0.0493,  0.0997,  0.0219,  ...,  0.0593, -0.0207,  0.0046],
+        [-0.0448,  0.0531,  0.0327,  ...,  0.0433,  0.0266, -0.0361],
+        [-0.0492, -0.0340,  0.0386,  ..., -0.0201,  0.0398,  0.0157],
+        ...,
+        [ 0.1212, -0.2265,  0.0340,  ...,  0.3821,  0.4498, -0.0692],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0502,  0.0612, -0.0034,  ..., -0.0054, -0.0030,  0.0282]]), tensor(26), tensor(0), tensor(0))
+Item 1 type: <class 'tuple'>
+Item 1 length: 4
+Item 1 contents: (tensor([[-0.0493,  0.0997,  0.0219,  ...,  0.0593, -0.0207,  0.0046],
+        [-0.0448,  0.0531,  0.0327,  ...,  0.0433,  0.0266, -0.0361],
+        [-0.0492, -0.0340,  0.0386,  ..., -0.0201,  0.0398,  0.0157],
+        ...,
+        [ 0.1212, -0.2265,  0.0340,  ...,  0.3821,  0.4498, -0.0692],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0575, -0.0213, -0.0062,  ..., -0.0456,  0.0575, -0.0041]]), tensor(26), tensor(1), tensor(0))
+Item 2 type: <class 'tuple'>
+Item 2 length: 4
+Item 2 contents: (tensor([[-0.0493,  0.0997,  0.0219,  ...,  0.0593, -0.0207,  0.0046],
+        [-0.0448,  0.0531,  0.0327,  ...,  0.0433,  0.0266, -0.0361],
+        [-0.0492, -0.0340,  0.0386,  ..., -0.0201,  0.0398,  0.0157],
+        ...,
+        [ 0.1212, -0.2265,  0.0340,  ...,  0.3821,  0.4498, -0.0692],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0336, -0.0322, -0.0057,  ...,  0.0604,  0.0176,  0.0529]]), tensor(26), tensor(2), tensor(0))
+Item 3 type: <class 'tuple'>
+Item 3 length: 4
+Item 3 contents: (tensor([[-0.0493,  0.0997,  0.0219,  ...,  0.0593, -0.0207,  0.0046],
+        [-0.0448,  0.0531,  0.0327,  ...,  0.0433,  0.0266, -0.0361],
+        [-0.0492, -0.0340,  0.0386,  ..., -0.0201,  0.0398,  0.0157],
+        ...,
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [ 0.1411,  0.0600,  0.1020,  ...,  0.0835,  0.0913, -0.0162],
+        [ 0.2416,  0.3338,  0.0553,  ..., -0.1600, -0.0064, -0.1198]]), tensor(27), tensor(3), tensor(0))
+Item 4 type: <class 'tuple'>
+Item 4 length: 4
+Item 4 contents: (tensor([[-0.0493,  0.0997,  0.0219,  ...,  0.0593, -0.0207,  0.0046],
+        [-0.0448,  0.0531,  0.0327,  ...,  0.0433,  0.0266, -0.0361],
+        [-0.0492, -0.0340,  0.0386,  ..., -0.0201,  0.0398,  0.0157],
+        ...,
+        [ 0.1212, -0.2265,  0.0340,  ...,  0.3821,  0.4498, -0.0692],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0805,  0.0047, -0.0155,  ..., -0.0197,  0.0461, -0.0485]]), tensor(26), tensor(4), tensor(0))
+Processing examples for RNN dataset...
+100%|██████████| 8741/8741 [00:09<00:00, 930.16it/s]
+Processed 43705 examples for RNN dataset
+Processing examples for RNN dataset...
+100%|██████████| 1000/1000 [00:01<00:00, 920.84it/s]
+Processed 5000 examples for RNN dataset
+Sample sequence shape: torch.Size([26, 300])
+Sequence length: 26
+Choice index: 0
+Correct answer: 0
+Created train loader with 342 batches
+Created validation loader with 20 batches
+Created train loader with 342 batches
+Created validation loader with 20 batches
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+Using device: cuda
+QARNNModel(
+  (lstm): LSTM(300, 128, num_layers=2, batch_first=True, dropout=0.2, bidirectional=True)
+  (classifier): Sequential(
+    (0): Linear(in_features=256, out_features=128, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+    (3): Linear(in_features=128, out_features=1, bias=True)
+  )
+)

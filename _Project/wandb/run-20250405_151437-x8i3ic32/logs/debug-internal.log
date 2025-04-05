@@ -1,0 +1,13 @@
+{"time":"2025-04-05T15:14:37.6674061+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250405_151437-x8i3ic32\\logs\\debug-core.log"}
+{"time":"2025-04-05T15:14:38.0634494+02:00","level":"INFO","msg":"created new stream","id":"x8i3ic32"}
+{"time":"2025-04-05T15:14:38.0638655+02:00","level":"INFO","msg":"stream: started","id":"x8i3ic32"}
+{"time":"2025-04-05T15:14:38.0638655+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"x8i3ic32"}
+{"time":"2025-04-05T15:14:38.0638655+02:00","level":"INFO","msg":"sender: started","stream_id":"x8i3ic32"}
+{"time":"2025-04-05T15:14:38.0638655+02:00","level":"INFO","msg":"handler: started","stream_id":"x8i3ic32"}
+{"time":"2025-04-05T15:14:38.414249+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T15:14:38.5996864+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T15:14:39.923837+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T15:14:39.924466+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T15:14:41.3008131+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T15:14:41.3028226+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T15:14:44.0251394+02:00","level":"INFO","msg":"Resuming system monitor"}

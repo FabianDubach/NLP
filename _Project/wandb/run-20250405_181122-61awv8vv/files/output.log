@@ -1,0 +1,64 @@
+
+Epoch 1/10
+Training: 100%|██████████| 69/69 [00:19<00:00,  3.59it/s, loss=1.6110, acc=0.1963]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.86it/s]
+Validation accuracy improved from 0.0000 to 0.2030
+Train Loss: 1.6094, Train Acc: 0.1963
+Val Loss: 1.6094, Val Acc: 0.2030
+
+Epoch 2/10
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.70it/s, loss=1.6087, acc=0.1993]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.62it/s]
+Train Loss: 1.6095, Train Acc: 0.1993
+Val Loss: 1.6094, Val Acc: 0.1940
+
+Epoch 3/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.88it/s, loss=1.6093, acc=0.2056]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.64it/s]
+Validation accuracy improved from 0.2030 to 0.2310
+Train Loss: 1.6094, Train Acc: 0.2056
+Val Loss: 1.6094, Val Acc: 0.2310
+
+Epoch 4/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.88it/s, loss=1.6084, acc=0.2019]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  3.00it/s]
+Train Loss: 1.6094, Train Acc: 0.2019
+Val Loss: 1.6094, Val Acc: 0.2130
+
+Epoch 5/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.95it/s, loss=1.6092, acc=0.1995]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.58it/s]
+Train Loss: 1.6095, Train Acc: 0.1995
+Val Loss: 1.6094, Val Acc: 0.2080
+
+Epoch 6/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.95it/s, loss=1.6093, acc=0.1965]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.62it/s]
+Train Loss: 1.6095, Train Acc: 0.1965
+Val Loss: 1.6094, Val Acc: 0.2160
+
+Epoch 7/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.90it/s, loss=1.6109, acc=0.1941]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.63it/s]
+Train Loss: 1.6096, Train Acc: 0.1941
+Val Loss: 1.6094, Val Acc: 0.2100
+
+Epoch 8/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.99it/s, loss=1.6088, acc=0.1969]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.48it/s]
+Train Loss: 1.6095, Train Acc: 0.1969
+Val Loss: 1.6094, Val Acc: 0.1970
+
+Epoch 9/10
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.85it/s, loss=1.6103, acc=0.1973]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.89it/s]
+Train Loss: 1.6095, Train Acc: 0.1973
+Val Loss: 1.6094, Val Acc: 0.2040
+
+Epoch 10/10
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.79it/s, loss=1.6101, acc=0.1960]
+Validation: 100%|██████████| 4/4 [00:01<00:00,  2.78it/s]
+Train Loss: 1.6094, Train Acc: 0.1960
+Val Loss: 1.6094, Val Acc: 0.2140
+Training completed in 3.24 minutes
+Best validation accuracy: 0.2310

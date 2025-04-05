@@ -1,0 +1,30 @@
+{"time":"2025-04-05T17:59:40.8766101+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250405_175939-lywpekj1\\logs\\debug-core.log"}
+{"time":"2025-04-05T17:59:40.9892396+02:00","level":"INFO","msg":"created new stream","id":"lywpekj1"}
+{"time":"2025-04-05T17:59:40.9892396+02:00","level":"INFO","msg":"stream: started","id":"lywpekj1"}
+{"time":"2025-04-05T17:59:40.9892396+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"lywpekj1"}
+{"time":"2025-04-05T17:59:40.9892396+02:00","level":"INFO","msg":"sender: started","stream_id":"lywpekj1"}
+{"time":"2025-04-05T17:59:40.9892396+02:00","level":"INFO","msg":"handler: started","stream_id":"lywpekj1"}
+{"time":"2025-04-05T17:59:41.2717085+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T17:59:41.3883388+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T17:59:43.2374547+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T17:59:43.2385451+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T17:59:45.2550803+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T17:59:45.2580969+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T17:59:48.9234656+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T18:00:13.594706+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T18:00:39.4505183+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T18:00:39.4515065+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T18:00:43.603125+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T18:00:43.6230271+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T18:01:20.2214599+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T18:01:20.2356701+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T18:01:22.3414499+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T18:01:22.399574+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-05T18:01:22.4000779+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-05T18:01:23.2467921+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-05T18:01:23.40665+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 38-46","runtime_seconds":0.1598579}],"total_operations":1}}
+{"time":"2025-04-05T18:01:23.4799976+02:00","level":"INFO","msg":"stream: closing","id":"lywpekj1"}
+{"time":"2025-04-05T18:01:23.4799976+02:00","level":"INFO","msg":"handler: closed","stream_id":"lywpekj1"}
+{"time":"2025-04-05T18:01:23.4799976+02:00","level":"INFO","msg":"sender: closed","stream_id":"lywpekj1"}
+{"time":"2025-04-05T18:01:23.4799976+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lywpekj1"}
+{"time":"2025-04-05T18:01:23.4919216+02:00","level":"INFO","msg":"stream: closed","id":"lywpekj1"}

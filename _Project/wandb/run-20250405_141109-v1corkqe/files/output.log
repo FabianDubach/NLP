@@ -1,0 +1,4 @@
+Starting RNN model training...
+
+Epoch 1/100
+Training:   0%|          | 0/69 [00:00<?, ?it/s][34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

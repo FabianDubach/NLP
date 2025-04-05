@@ -1,0 +1,26 @@
+Starting RNN model training...
+Checking first batch...
+Sequences shape: torch.Size([640, 64, 300])
+Sequence lengths shape: torch.Size([640])
+Indices shape: torch.Size([128, 5])
+Answers shape: torch.Size([128])
+Testing forward pass...
+Forward pass successful! Output shape: torch.Size([128, 5])
+Loss calculation successful: 1.609285593032837
+Backward pass successful!
+No NaN gradients detected
+Debug checks passed!
+
+Epoch 1/10
+Training: 100%|██████████| 69/69 [00:22<00:00,  3.05it/s, loss=1.6100, acc=0.2046]
+Validation: 100%|██████████| 4/4 [00:02<00:00,  1.51it/s]
+Validation accuracy improved from 0.0000 to 0.2020
+Training failed with error: save_checkpoint() takes 5 positional arguments but 7 were given
+Traceback (most recent call last):
+  File "C:\Users\fabia\AppData\Local\Temp\ipykernel_16576\782190209.py", line 23, in <module>
+    trained_rnn_model, best_rnn_accuracy = train_rnn_model(
+                                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\fabia\AppData\Local\Temp\ipykernel_16576\2396035417.py", line 141, in train_rnn_model
+    save_checkpoint(model, optimizer, epoch, scheduler,
+TypeError: save_checkpoint() takes 5 positional arguments but 7 were given
+Model saved in emergency mode

@@ -1,0 +1,24 @@
+{"time":"2025-04-04T22:02:15.4116704+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250404_220215-1rsijegz\\logs\\debug-core.log"}
+{"time":"2025-04-04T22:02:15.521146+02:00","level":"INFO","msg":"created new stream","id":"1rsijegz"}
+{"time":"2025-04-04T22:02:15.521146+02:00","level":"INFO","msg":"stream: started","id":"1rsijegz"}
+{"time":"2025-04-04T22:02:15.521146+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"1rsijegz"}
+{"time":"2025-04-04T22:02:15.521146+02:00","level":"INFO","msg":"sender: started","stream_id":"1rsijegz"}
+{"time":"2025-04-04T22:02:15.521146+02:00","level":"INFO","msg":"handler: started","stream_id":"1rsijegz"}
+{"time":"2025-04-04T22:02:15.9004748+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-04T22:02:16.0122322+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:02:17.1711669+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:02:17.1721844+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:29:49.4962331+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:29:49.4991793+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:29:49.650436+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:29:49.653565+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:30:16.4176273+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:30:16.4199305+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:30:19.8349397+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:30:19.8357589+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:30:25.7032409+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:30:25.7047447+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:30:32.809003+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:30:32.8100326+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-04T22:30:39.5618141+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-04T22:30:39.5631783+02:00","level":"INFO","msg":"Pausing system monitor"}

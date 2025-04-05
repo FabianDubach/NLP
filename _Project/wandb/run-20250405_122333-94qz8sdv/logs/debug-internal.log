@@ -1,0 +1,66 @@
+{"time":"2025-04-05T12:23:33.5510416+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250405_122333-94qz8sdv\\logs\\debug-core.log"}
+{"time":"2025-04-05T12:23:33.8228559+02:00","level":"INFO","msg":"created new stream","id":"94qz8sdv"}
+{"time":"2025-04-05T12:23:33.8228559+02:00","level":"INFO","msg":"sender: started","stream_id":"94qz8sdv"}
+{"time":"2025-04-05T12:23:33.8228559+02:00","level":"INFO","msg":"stream: started","id":"94qz8sdv"}
+{"time":"2025-04-05T12:23:33.8228559+02:00","level":"INFO","msg":"handler: started","stream_id":"94qz8sdv"}
+{"time":"2025-04-05T12:23:33.8233696+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"94qz8sdv"}
+{"time":"2025-04-05T12:23:34.1963793+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T12:28:52.2084149+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:29:04.9355807+02:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/fabian-dubach-hochschule-luzern/CommonsenseQA/94qz8sdv/file_stream"}
+{"time":"2025-04-05T12:29:04.9355807+02:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/fabian-dubach-hochschule-luzern/CommonsenseQA/94qz8sdv/file_stream: {\"error\":\"run CommonsenseQA/94qz8sdv not found while streaming file\"}"}
+{"time":"2025-04-05T12:32:33.2638929+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:32:33.266608+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:34:07.8684214+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:34:07.872665+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:34:31.5181947+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:34:31.5206987+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:34:36.2311352+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:34:36.2326404+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:34:37.5165984+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:34:37.5176921+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:34:50.8588212+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:34:51.065419+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:34:53.3008405+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:34:57.4543141+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:35:01.4777245+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:35:06.7505769+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:35:24.5773664+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:36:03.8448385+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:37:04.0105271+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:38:04.1722428+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:38:20.6591048+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:38:20.6606117+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:39:04.3336488+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:40:04.4993681+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:41:04.6450799+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:42:04.7933155+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:43:04.9657853+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:44:05.1261701+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:44:50.9145196+02:00","level":"WARN","msg":"sender: taking a long time","seconds":600.0008792,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49963\")"}
+{"time":"2025-04-05T12:45:05.2827384+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:46:05.4749465+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:47:05.6240448+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:48:05.7754529+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:49:05.93539+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:50:06.0943655+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:51:06.2595372+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T12:51:06.2595372+02:00","level":"ERROR","msg":"sender: sendConfig:","error":"api: failed sending: POST https://api.wandb.ai/graphql giving up after 21 attempt(s)"}
+{"time":"2025-04-05T12:51:06.2595372+02:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":975.3458968,"work":"WorkRecord(*service_go_proto.Record_Telemetry); Control(connection_id:\"127.0.0.1:49963\")"}
+{"time":"2025-04-05T12:56:30.3489595+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:56:30.3528109+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:56:37.5938132+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:56:37.5943183+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:57:01.9524855+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:57:01.954343+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:57:23.8015891+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:57:23.8026264+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:57:40.6542264+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T12:57:40.6549421+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T12:58:00.3263876+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-05T13:00:06.756457+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-05T13:00:06.756457+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-05T13:00:06.9004059+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T13:00:07.764449+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.0093809,"error_status":"retrying HTTP 409: run 94qz8sdv was previously created and deleted; try a new run name"}],"total_operations":1}}
+{"time":"2025-04-05T13:00:09.3599528+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T13:00:13.6306663+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2025-04-05T13:00:22.1558344+02:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 94qz8sdv was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
