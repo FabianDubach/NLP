@@ -1,0 +1,16 @@
+{"time":"2025-04-06T22:17:54.2081795+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250406_221753-hzdevj9y\\logs\\debug-core.log"}
+{"time":"2025-04-06T22:17:54.3194647+02:00","level":"INFO","msg":"created new stream","id":"hzdevj9y"}
+{"time":"2025-04-06T22:17:54.3194647+02:00","level":"INFO","msg":"stream: started","id":"hzdevj9y"}
+{"time":"2025-04-06T22:17:54.3194647+02:00","level":"INFO","msg":"handler: started","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:17:54.3194647+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:17:54.3194647+02:00","level":"INFO","msg":"sender: started","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:17:54.6694156+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T22:24:00.3449387+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-06T22:24:00.3454425+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-06T22:24:01.2496676+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-06T22:24:01.3547853+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 3-8","runtime_seconds":0.1051177}],"total_operations":1}}
+{"time":"2025-04-06T22:24:01.4792495+02:00","level":"INFO","msg":"stream: closing","id":"hzdevj9y"}
+{"time":"2025-04-06T22:24:01.4792495+02:00","level":"INFO","msg":"handler: closed","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:24:01.4792495+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:24:01.4792495+02:00","level":"INFO","msg":"sender: closed","stream_id":"hzdevj9y"}
+{"time":"2025-04-06T22:24:01.49067+02:00","level":"INFO","msg":"stream: closed","id":"hzdevj9y"}

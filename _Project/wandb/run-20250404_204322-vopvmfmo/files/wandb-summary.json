@@ -1,1 +1,0 @@
-{"val_accuracy":0.225,"train_accuracy":0.3992678183274225,"_runtime":542.3432834,"best_model_checkpoint":{"path":"checkpoints\\best_model.pt","epoch":31,"val_accuracy":0.236},"epoch":99,"train_loss":1.4348706007003784,"_step":107,"_wandb":{"runtime":542},"learning_rate":0.001,"_timestamp":1.743792779328439e+09,"val_loss":1.608992099761963}

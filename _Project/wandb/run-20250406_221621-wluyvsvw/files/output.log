@@ -1,0 +1,7 @@
+Epoch 1/100:   0%|          | 0/100 [00:05<?, ?it/s]
+WordEmbeddingQAClassifier(
+  (fc1): Linear(in_features=600, out_features=64, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.2, inplace=False)
+  (fc2): Linear(in_features=64, out_features=1, bias=True)
+)

@@ -1,6 +1,0 @@
-Is CUDA available? True
-CUDA version: 11.8
-PyTorch compiled with CUDA: True
-Number of GPUs: 1
-C:\Users\fabia\AppData\Local\Temp\ipykernel_3496\2918860721.py:14: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\utils\tensor_new.cpp:257.)
-  embeddings = torch.tensor(embeddings, dtype=torch.float)
