@@ -1,0 +1,276 @@
+
+Epoch 1/50
+Training:   0%|          | 0/274 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training: 100%|██████████| 274/274 [00:15<00:00, 17.87it/s, loss=1.6134, acc=0.1895]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 29.83it/s]
+Train Loss: 1.6095, Train Acc: 0.1895
+Val Loss: 1.6092, Val Acc: 0.2030
+Validation accuracy improved from 0.0000 to 0.2030
+
+Epoch 2/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.84it/s, loss=1.6160, acc=0.1993]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 20.77it/s]
+Train Loss: 1.6093, Train Acc: 0.1993
+Val Loss: 1.6091, Val Acc: 0.2220
+Validation accuracy improved from 0.2030 to 0.2220
+
+Epoch 3/50
+Training: 100%|██████████| 274/274 [00:16<00:00, 16.23it/s, loss=1.6112, acc=0.2078]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 24.49it/s]
+Train Loss: 1.6091, Train Acc: 0.2078
+Val Loss: 1.6090, Val Acc: 0.2220
+No improvement for 1 epochs (patience: 10)
+
+Epoch 4/50
+Training: 100%|██████████| 274/274 [00:15<00:00, 17.54it/s, loss=1.6065, acc=0.2134]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 28.65it/s]
+Train Loss: 1.6088, Train Acc: 0.2134
+Val Loss: 1.6089, Val Acc: 0.2180
+No improvement for 2 epochs (patience: 10)
+
+Epoch 5/50
+Training: 100%|██████████| 274/274 [00:17<00:00, 16.11it/s, loss=1.6007, acc=0.2182]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 26.17it/s]
+Train Loss: 1.6086, Train Acc: 0.2182
+Val Loss: 1.6088, Val Acc: 0.2300
+Validation accuracy improved from 0.2220 to 0.2300
+
+Epoch 6/50
+Training: 100%|██████████| 274/274 [00:16<00:00, 16.73it/s, loss=1.6050, acc=0.2157]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 26.50it/s]
+Train Loss: 1.6084, Train Acc: 0.2157
+Val Loss: 1.6086, Val Acc: 0.2310
+Validation accuracy improved from 0.2300 to 0.2310
+
+Epoch 7/50
+Training: 100%|██████████| 274/274 [00:15<00:00, 18.26it/s, loss=1.5937, acc=0.2157]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 30.44it/s]
+Train Loss: 1.6082, Train Acc: 0.2157
+Val Loss: 1.6085, Val Acc: 0.2260
+No improvement for 1 epochs (patience: 10)
+
+Epoch 8/50
+Training: 100%|██████████| 274/274 [00:15<00:00, 17.30it/s, loss=1.6058, acc=0.2184]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 27.32it/s]
+Train Loss: 1.6078, Train Acc: 0.2184
+Val Loss: 1.6083, Val Acc: 0.2230
+No improvement for 2 epochs (patience: 10)
+
+Epoch 9/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.46it/s, loss=1.6144, acc=0.2185]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 27.95it/s]
+Train Loss: 1.6076, Train Acc: 0.2185
+Val Loss: 1.6081, Val Acc: 0.2230
+No improvement for 3 epochs (patience: 10)
+
+Epoch 10/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.56it/s, loss=1.6179, acc=0.2206]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 26.36it/s]
+Train Loss: 1.6073, Train Acc: 0.2206
+Val Loss: 1.6079, Val Acc: 0.2240
+No improvement for 4 epochs (patience: 10)
+
+Epoch 11/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 19.32it/s, loss=1.6027, acc=0.2206]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 29.72it/s]
+Train Loss: 1.6069, Train Acc: 0.2206
+Val Loss: 1.6077, Val Acc: 0.2210
+No improvement for 5 epochs (patience: 10)
+
+Epoch 12/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.66it/s, loss=1.5992, acc=0.2218]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 28.70it/s]
+Train Loss: 1.6066, Train Acc: 0.2218
+Val Loss: 1.6075, Val Acc: 0.2230
+No improvement for 6 epochs (patience: 10)
+
+Epoch 13/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 19.31it/s, loss=1.5711, acc=0.2203]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 30.17it/s]
+Train Loss: 1.6059, Train Acc: 0.2203
+Val Loss: 1.6073, Val Acc: 0.2160
+No improvement for 7 epochs (patience: 10)
+
+Epoch 14/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.81it/s, loss=1.6400, acc=0.2209]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 29.67it/s]
+Train Loss: 1.6057, Train Acc: 0.2209
+Val Loss: 1.6071, Val Acc: 0.2190
+No improvement for 8 epochs (patience: 10)
+
+Epoch 15/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.83it/s, loss=1.6316, acc=0.2242]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 29.28it/s]
+Train Loss: 1.6051, Train Acc: 0.2242
+Val Loss: 1.6069, Val Acc: 0.2200
+No improvement for 9 epochs (patience: 10)
+
+Epoch 16/50
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.81it/s, loss=1.6176, acc=0.2255]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 28.84it/s]
+Train Loss: 1.6048, Train Acc: 0.2255
+Val Loss: 1.6067, Val Acc: 0.2210
+No improvement for 10 epochs (patience: 10)
+
+Early stopping triggered after 16 epochs! No improvement for 10 epochs.
+Training completed in 4.37 minutes
+Best validation accuracy: 0.2310
+RNN training complete! Best validation accuracy: 0.2310
+<>:2: SyntaxWarning: invalid escape sequence '\c'
+<>:2: SyntaxWarning: invalid escape sequence '\c'
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\2038754188.py:2: SyntaxWarning: invalid escape sequence '\c'
+  model_path='_Project\checkpoints\embedding-2025-04-07-18-17-33\best_model.pt',
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\2038754188.py:2: SyntaxWarning: invalid escape sequence '\c'
+  model_path='_Project\checkpoints\embedding-2025-04-07-18-17-33\best_model.pt',
+WordEmbeddingQAClassifier(
+  (fc1): Linear(in_features=600, out_features=128, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.2, inplace=False)
+  (fc2): Linear(in_features=128, out_features=1, bias=True)
+)
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+accuracy: 0.233
+precision: 0.23276919910636673
+recall: 0.233
+f1_score: 0.23222251093213703
+Confusion Matrix:
+[[49 34 40 30 47]
+ [40 42 47 42 48]
+ [37 36 57 24 34]
+ [34 46 31 44 40]
+ [35 42 47 33 41]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+accuracy: 0.233
+precision: 0.23276919910636673
+recall: 0.233
+f1_score: 0.23222251093213703
+Confusion Matrix:
+[[49 34 40 30 47]
+ [40 42 47 42 48]
+ [37 36 57 24 34]
+ [34 46 31 44 40]
+ [35 42 47 33 41]]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+accuracy: 0.233
+precision: 0.23276919910636673
+recall: 0.233
+f1_score: 0.23222251093213703
+Confusion Matrix:
+[[49 34 40 30 47]
+ [40 42 47 42 48]
+ [37 36 57 24 34]
+ [34 46 31 44 40]
+ [35 42 47 33 41]]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+accuracy: 0.233
+precision: 0.23276919910636673
+recall: 0.233
+f1_score: 0.23222251093213703
+confusion_matrix: [[49 34 40 30 47]
+ [40 42 47 42 48]
+ [37 36 57 24 34]
+ [34 46 31 44 40]
+ [35 42 47 33 41]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+Confusion Matrix:
+[[53 30 39 43 35]
+ [42 53 40 43 41]
+ [38 45 50 32 23]
+ [37 34 32 52 40]
+ [39 35 41 35 48]]
+accuracy: 0.256
+precision: 0.2564580825864282
+recall: 0.256
+f1_score: 0.2559131822232372
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+accuracy: 0.233
+precision: 0.23276919910636673
+recall: 0.233
+f1_score: 0.23222251093213703

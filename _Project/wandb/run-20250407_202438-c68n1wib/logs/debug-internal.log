@@ -1,0 +1,35 @@
+{"time":"2025-04-07T20:24:39.5503061+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_202438-c68n1wib\\logs\\debug-core.log"}
+{"time":"2025-04-07T20:24:39.6593469+02:00","level":"INFO","msg":"created new stream","id":"c68n1wib"}
+{"time":"2025-04-07T20:24:39.6593469+02:00","level":"INFO","msg":"stream: started","id":"c68n1wib"}
+{"time":"2025-04-07T20:24:39.6593469+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:24:39.6593469+02:00","level":"INFO","msg":"sender: started","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:24:39.6593469+02:00","level":"INFO","msg":"handler: started","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:24:39.9422057+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T20:24:40.0182351+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:41.7567301+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:41.7588582+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:44.5849487+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:44.5960729+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:46.6123192+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:25:40.0466881+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-07T20:28:13.5032858+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:30.5845475+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:30.5854012+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:32.1688494+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:32.1693531+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:33.5826898+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:33.5831935+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:35.1960696+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:35.2022146+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:37.1477508+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:37.1482552+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:29:39.2252555+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:29:39.2724456+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T20:29:39.2724456+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T20:29:40.2284132+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T20:29:40.2780814+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 96-110","runtime_seconds":0.0496682}],"total_operations":1}}
+{"time":"2025-04-07T20:29:40.4515538+02:00","level":"INFO","msg":"stream: closing","id":"c68n1wib"}
+{"time":"2025-04-07T20:29:40.4515538+02:00","level":"INFO","msg":"handler: closed","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:29:40.4515538+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:29:40.4515538+02:00","level":"INFO","msg":"sender: closed","stream_id":"c68n1wib"}
+{"time":"2025-04-07T20:29:40.4619685+02:00","level":"INFO","msg":"stream: closed","id":"c68n1wib"}

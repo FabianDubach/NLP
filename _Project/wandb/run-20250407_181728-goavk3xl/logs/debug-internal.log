@@ -1,0 +1,22 @@
+{"time":"2025-04-07T18:17:28.2741136+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_181728-goavk3xl\\logs\\debug-core.log"}
+{"time":"2025-04-07T18:17:28.3813042+02:00","level":"INFO","msg":"created new stream","id":"goavk3xl"}
+{"time":"2025-04-07T18:17:28.3813042+02:00","level":"INFO","msg":"stream: started","id":"goavk3xl"}
+{"time":"2025-04-07T18:17:28.3813042+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:17:28.3813042+02:00","level":"INFO","msg":"sender: started","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:17:28.3813042+02:00","level":"INFO","msg":"handler: started","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:17:28.6844656+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T18:17:28.7674003+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:17:30.2091402+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:17:30.209925+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:17:33.4831324+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:17:33.4963917+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:17:35.0591559+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:22:56.0831743+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T18:22:56.0831743+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T18:22:56.9218224+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T18:22:57.0892664+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 58-59, summary, console lines 0-0","runtime_seconds":0.167444}],"total_operations":1}}
+{"time":"2025-04-07T18:22:57.2088157+02:00","level":"INFO","msg":"stream: closing","id":"goavk3xl"}
+{"time":"2025-04-07T18:22:57.2088157+02:00","level":"INFO","msg":"handler: closed","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:22:57.2088157+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:22:57.2088157+02:00","level":"INFO","msg":"sender: closed","stream_id":"goavk3xl"}
+{"time":"2025-04-07T18:22:57.2155914+02:00","level":"INFO","msg":"stream: closed","id":"goavk3xl"}

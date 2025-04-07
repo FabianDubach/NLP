@@ -1,0 +1,18 @@
+{"time":"2025-04-07T19:48:36.4700988+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_194835-u5ogvoi0\\logs\\debug-core.log"}
+{"time":"2025-04-07T19:48:36.5773511+02:00","level":"INFO","msg":"created new stream","id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:36.5773511+02:00","level":"INFO","msg":"stream: started","id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:36.5773511+02:00","level":"INFO","msg":"handler: started","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:36.5773511+02:00","level":"INFO","msg":"sender: started","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:36.5773511+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:36.9032921+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T19:48:36.9910373+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:48:41.1849638+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:48:41.2401131+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T19:48:41.2401131+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T19:48:41.9102895+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T19:48:42.160031+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-07T19:48:42.1644807+02:00","level":"INFO","msg":"stream: closing","id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:42.1644807+02:00","level":"INFO","msg":"handler: closed","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:42.1644807+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:42.1644807+02:00","level":"INFO","msg":"sender: closed","stream_id":"u5ogvoi0"}
+{"time":"2025-04-07T19:48:42.172458+02:00","level":"INFO","msg":"stream: closed","id":"u5ogvoi0"}

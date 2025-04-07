@@ -1,0 +1,39 @@
+
+Epoch 1/2
+Training:   0%|          | 0/274 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training: 100%|██████████| 274/274 [00:15<00:00, 17.71it/s, loss=1.6072, acc=0.2057]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 28.76it/s]
+Train Loss: 1.6088, Train Acc: 0.2057
+Val Loss: 1.6083, Val Acc: 0.2280
+Validation accuracy improved from 0.0000 to 0.2280
+
+Epoch 2/2
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.66it/s, loss=1.5892, acc=0.2152]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 30.53it/s]
+Train Loss: 1.6057, Train Acc: 0.2152
+Val Loss: 1.6062, Val Acc: 0.2250
+No improvement for 1 epochs (patience: 5)
+Training completed in 0.54 minutes
+Best validation accuracy: 0.2280
+RNN training complete! Best validation accuracy: 0.2280
+QARNNModel(
+  (question_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (choice_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (scoring): Sequential(
+    (0): Linear(in_features=512, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+    (3): Linear(in_features=256, out_features=1, bias=True)
+  )
+)

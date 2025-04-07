@@ -1,0 +1,74 @@
+2025-04-07 18:54:55,715 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_185455-3zahnlqe\logs\debug.log
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_185455-3zahnlqe\logs\debug-internal.log
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000027EEF86BE00>
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_init.py:init():761] calling init triggers
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'model': 'rnn', 'embedding_dim': 300, 'hidden_dim': 256, 'batch_size': 32, 'epoch': 50, 'dropout_rate': 0.3, 'weight_decay': 0.0001, '_wandb': {}}
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_init.py:init():773] finishing previous run: bulegx2l
+2025-04-07 18:54:55,716 INFO    MainThread:9932 [wandb_run.py:_finish():2112] finishing run fabian-dubach-hochschule-luzern/CommonsenseQA/bulegx2l
+2025-04-07 18:54:55,717 INFO    MainThread:9932 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-04-07 18:54:55,717 INFO    MainThread:9932 [wandb_run.py:_restore():2322] restore
+2025-04-07 18:54:55,717 INFO    MainThread:9932 [wandb_run.py:_restore():2328] restore done
+2025-04-07 18:54:56,751 INFO    MainThread:9932 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-04-07 18:54:56,751 INFO    MainThread:9932 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-04-07 18:54:56,751 INFO    MainThread:9932 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-04-07 18:54:56,755 INFO    MainThread:9932 [wandb_init.py:init():784] starting backend
+2025-04-07 18:54:56,755 INFO    MainThread:9932 [wandb_init.py:init():788] sending inform_init request
+2025-04-07 18:54:56,756 INFO    MainThread:9932 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-04-07 18:54:56,756 INFO    MainThread:9932 [wandb_init.py:init():798] backend started and connected
+2025-04-07 18:54:56,757 INFO    MainThread:9932 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-04-07 18:54:56,758 INFO    MainThread:9932 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 142831: character maps to <undefined>
+2025-04-07 18:54:56,758 INFO    MainThread:9932 [wandb_init.py:init():891] updated telemetry
+2025-04-07 18:54:56,784 INFO    MainThread:9932 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-04-07 18:54:57,151 INFO    MainThread:9932 [wandb_init.py:init():990] starting run threads in backend
+2025-04-07 18:54:57,244 INFO    MainThread:9932 [wandb_run.py:_console_start():2375] atexit reg
+2025-04-07 18:54:57,244 INFO    MainThread:9932 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-04-07 18:54:57,244 INFO    MainThread:9932 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-04-07 18:54:57,244 INFO    MainThread:9932 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-04-07 18:54:57,246 INFO    MainThread:9932 [wandb_init.py:init():1032] run started, returning control to user process
+2025-04-07 18:54:57,246 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:54:57,246 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:02,353 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:02,355 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:02,355 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:10,606 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:10,609 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:10,609 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:21,449 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:21,452 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:21,452 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:21,456 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:21,463 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:21,463 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:21,651 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:21,663 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:21,679 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:23,512 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:23,515 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:23,515 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:41,851 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:41,853 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:41,853 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:43,008 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:43,084 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:43,084 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:44,604 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:44,605 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:44,605 INFO    MainThread:9932 [wandb_init.py:_pause_backend():564] pausing backend
+2025-04-07 18:55:45,769 INFO    MainThread:9932 [wandb_init.py:_resume_backend():569] resuming backend
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_185545-cwo2xqqa\logs\debug.log
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_185545-cwo2xqqa\logs\debug-internal.log
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_init.py:init():761] calling init triggers
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'model': 'rnn', 'embedding_dim': 300, 'hidden_dim': 256, 'batch_size': 32, 'epoch': 50, 'dropout_rate': 0.3, 'weight_decay': 0.0001, '_wandb': {}}
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_init.py:init():773] finishing previous run: 3zahnlqe
+2025-04-07 18:55:45,820 INFO    MainThread:9932 [wandb_run.py:_finish():2112] finishing run fabian-dubach-hochschule-luzern/CommonsenseQA/3zahnlqe
+2025-04-07 18:55:45,821 ERROR   MainThread:9932 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-04-07 18:55:45,821 INFO    MainThread:9932 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-04-07 18:55:45,821 INFO    MainThread:9932 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-04-07 18:55:45,821 INFO    MainThread:9932 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-04-07 18:55:45,821 INFO    MainThread:9932 [wandb_run.py:_restore():2322] restore
+2025-04-07 18:55:45,821 INFO    MainThread:9932 [wandb_run.py:_restore():2328] restore done
+2025-04-07 18:55:47,002 INFO    MainThread:9932 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-04-07 18:55:47,002 INFO    MainThread:9932 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-04-07 18:55:47,002 INFO    MainThread:9932 [wandb_run.py:_footer_sync_info():3917] logging synced files

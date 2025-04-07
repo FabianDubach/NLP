@@ -1,0 +1,32 @@
+
+Epoch 1/50
+Training:   0%|          | 0/274 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training:   0%|          | 0/274 [00:00<?, ?it/s]
+
+Epoch 1/50
+Training:   0%|          | 0/274 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training:   0%|          | 0/274 [00:00<?, ?it/s]
+QARNNModel(
+  (question_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (choice_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (scoring): Sequential(
+    (0): Linear(in_features=512, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+    (3): Linear(in_features=256, out_features=1, bias=True)
+  )
+)

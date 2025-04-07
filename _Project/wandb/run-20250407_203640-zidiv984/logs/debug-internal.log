@@ -1,0 +1,38 @@
+{"time":"2025-04-07T20:36:41.8706963+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_203640-zidiv984\\logs\\debug-core.log"}
+{"time":"2025-04-07T20:36:41.9768573+02:00","level":"INFO","msg":"created new stream","id":"zidiv984"}
+{"time":"2025-04-07T20:36:41.9774067+02:00","level":"INFO","msg":"stream: started","id":"zidiv984"}
+{"time":"2025-04-07T20:36:41.9774067+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:36:41.9774067+02:00","level":"INFO","msg":"sender: started","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:36:41.9774067+02:00","level":"INFO","msg":"handler: started","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:36:42.2973278+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T20:36:42.3739549+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:36:44.1802718+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:36:44.1825088+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:36:48.8202149+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:36:48.8324163+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:36:50.6225893+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:43:54.4178807+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:46:56.4368674+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:46:56.4429577+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:46:56.4540642+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:46:56.4591043+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:15.7553858+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:15.7558891+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:16.8673427+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:16.8682338+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:18.5246783+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:18.5252109+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:20.1547175+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:20.161035+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:22.3503585+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:22.3510524+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:47:24.0177757+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:47:24.0659619+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T20:47:24.0659619+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T20:47:24.9084618+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T20:47:25.0704398+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 201-215","runtime_seconds":0.161978}],"total_operations":1}}
+{"time":"2025-04-07T20:47:25.1613463+02:00","level":"INFO","msg":"stream: closing","id":"zidiv984"}
+{"time":"2025-04-07T20:47:25.1613463+02:00","level":"INFO","msg":"handler: closed","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:47:25.1613463+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:47:25.1613463+02:00","level":"INFO","msg":"sender: closed","stream_id":"zidiv984"}
+{"time":"2025-04-07T20:47:25.1688121+02:00","level":"INFO","msg":"stream: closed","id":"zidiv984"}

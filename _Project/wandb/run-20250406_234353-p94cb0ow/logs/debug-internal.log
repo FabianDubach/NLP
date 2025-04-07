@@ -1,0 +1,8 @@
+{"time":"2025-04-06T23:43:53.2298052+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250406_234353-p94cb0ow\\logs\\debug-core.log"}
+{"time":"2025-04-06T23:43:53.3375418+02:00","level":"INFO","msg":"created new stream","id":"p94cb0ow"}
+{"time":"2025-04-06T23:43:53.3375418+02:00","level":"INFO","msg":"stream: started","id":"p94cb0ow"}
+{"time":"2025-04-06T23:43:53.3375418+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"p94cb0ow"}
+{"time":"2025-04-06T23:43:53.3375418+02:00","level":"INFO","msg":"handler: started","stream_id":"p94cb0ow"}
+{"time":"2025-04-06T23:43:53.3375418+02:00","level":"INFO","msg":"sender: started","stream_id":"p94cb0ow"}
+{"time":"2025-04-06T23:43:53.7070129+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T23:44:27.2299281+02:00","level":"INFO","msg":"Pausing system monitor"}

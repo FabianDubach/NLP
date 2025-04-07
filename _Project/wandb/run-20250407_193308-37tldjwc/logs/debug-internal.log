@@ -1,0 +1,40 @@
+{"time":"2025-04-07T19:33:09.3292098+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_193308-37tldjwc\\logs\\debug-core.log"}
+{"time":"2025-04-07T19:33:09.4411373+02:00","level":"INFO","msg":"created new stream","id":"37tldjwc"}
+{"time":"2025-04-07T19:33:09.4411373+02:00","level":"INFO","msg":"stream: started","id":"37tldjwc"}
+{"time":"2025-04-07T19:33:09.4411373+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:33:09.4411373+02:00","level":"INFO","msg":"handler: started","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:33:09.4411373+02:00","level":"INFO","msg":"sender: started","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:33:09.7830165+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T19:33:09.8639343+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:33:11.4538939+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:33:11.4557806+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:33:14.2882487+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:33:14.3003153+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:33:15.516135+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:33:15.725103+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:06.1838374+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:06.1847345+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:10.840135+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:10.8408434+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:12.2319147+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:12.2328713+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:16.4270468+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:16.42755+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:17.6658094+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:17.6663147+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:18.4180883+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:18.4187288+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:19.9261521+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:19.9296608+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:21.5973852+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:21.5981156+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T19:34:22.8469544+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T19:34:22.902269+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T19:34:22.902269+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T19:34:23.7074255+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T19:34:23.9208391+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 10-27","runtime_seconds":0.2134136}],"total_operations":1}}
+{"time":"2025-04-07T19:34:23.964703+02:00","level":"INFO","msg":"stream: closing","id":"37tldjwc"}
+{"time":"2025-04-07T19:34:23.964703+02:00","level":"INFO","msg":"handler: closed","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:34:23.964703+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:34:23.964703+02:00","level":"INFO","msg":"sender: closed","stream_id":"37tldjwc"}
+{"time":"2025-04-07T19:34:23.9719113+02:00","level":"INFO","msg":"stream: closed","id":"37tldjwc"}

@@ -1,0 +1,38 @@
+{"time":"2025-04-07T20:23:02.1566134+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_202301-pmhbu6w1\\logs\\debug-core.log"}
+{"time":"2025-04-07T20:23:02.2923457+02:00","level":"INFO","msg":"created new stream","id":"pmhbu6w1"}
+{"time":"2025-04-07T20:23:02.2923457+02:00","level":"INFO","msg":"stream: started","id":"pmhbu6w1"}
+{"time":"2025-04-07T20:23:02.2928524+02:00","level":"INFO","msg":"sender: started","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:23:02.2928524+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:23:02.2928524+02:00","level":"INFO","msg":"handler: started","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:23:02.8590439+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T20:23:03.0294683+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:23:05.8510234+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:23:05.8532133+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:23:12.6447364+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:23:12.6471526+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:23:16.1908923+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:23:16.2742997+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:23:20.7262886+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:23:20.7369258+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:23:22.7210293+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:23:55.1138974+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:27.672659+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:27.6731631+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:29.1278367+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:29.1283417+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:30.518713+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:30.519549+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:31.9923202+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:32.0003867+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:33.4373568+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:33.4378603+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T20:24:35.0915354+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T20:24:35.1407813+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T20:24:35.1412839+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T20:24:36.1576661+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6120514,"progress":"2.0KB/2.0KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4110844,"progress":"873B/873B"}],"total_operations":2}}
+{"time":"2025-04-07T20:24:36.2654013+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T20:24:36.4790633+02:00","level":"INFO","msg":"stream: closing","id":"pmhbu6w1"}
+{"time":"2025-04-07T20:24:36.4790633+02:00","level":"INFO","msg":"handler: closed","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:24:36.4790633+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:24:36.4790633+02:00","level":"INFO","msg":"sender: closed","stream_id":"pmhbu6w1"}
+{"time":"2025-04-07T20:24:36.4872701+02:00","level":"INFO","msg":"stream: closed","id":"pmhbu6w1"}

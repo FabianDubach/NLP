@@ -1,0 +1,22 @@
+{"time":"2025-04-07T18:30:51.9171061+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_183051-lyapxbhm\\logs\\debug-core.log"}
+{"time":"2025-04-07T18:30:52.0241891+02:00","level":"INFO","msg":"created new stream","id":"lyapxbhm"}
+{"time":"2025-04-07T18:30:52.0241891+02:00","level":"INFO","msg":"stream: started","id":"lyapxbhm"}
+{"time":"2025-04-07T18:30:52.0241891+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:30:52.0241891+02:00","level":"INFO","msg":"handler: started","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:30:52.0241891+02:00","level":"INFO","msg":"sender: started","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:30:52.5951222+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T18:30:52.6875123+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:30:54.1080082+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:30:54.1099214+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:30:56.889062+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:30:56.9025366+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:30:59.5159734+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:47:40.1801193+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T18:47:40.1801193+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T18:47:41.1995632+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6257773,"progress":"276B/276B"},{"desc":"uploading config.yaml","runtime_seconds":0.4248264,"progress":"895B/895B"}],"total_operations":2}}
+{"time":"2025-04-07T18:47:41.3655894+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T18:47:41.6085961+02:00","level":"INFO","msg":"stream: closing","id":"lyapxbhm"}
+{"time":"2025-04-07T18:47:41.6085961+02:00","level":"INFO","msg":"handler: closed","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:47:41.6085961+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:47:41.6085961+02:00","level":"INFO","msg":"sender: closed","stream_id":"lyapxbhm"}
+{"time":"2025-04-07T18:47:41.6173867+02:00","level":"INFO","msg":"stream: closed","id":"lyapxbhm"}

@@ -1,0 +1,1 @@
+{"_runtime":295.1743265,"val_loss":1.5965191796422005,"best_model_checkpoint":{"val_accuracy":0.236,"path":"./checkpoints/embedding-2025-04-07-18-23-33\\best_model.pt","epoch":4},"train_accuracy":0.3191854478892575,"train_loss":1.5284000165271063,"learning_rate":0.0001,"val_accuracy":0.233,"_step":52,"_wandb":{"runtime":295},"epoch":49,"_timestamp":1.7440433071954596e+09}

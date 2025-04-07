@@ -1,0 +1,22 @@
+{"time":"2025-04-07T17:46:49.9692209+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_174649-gct1ab0p\\logs\\debug-core.log"}
+{"time":"2025-04-07T17:46:50.2379256+02:00","level":"INFO","msg":"created new stream","id":"gct1ab0p"}
+{"time":"2025-04-07T17:46:50.2384539+02:00","level":"INFO","msg":"stream: started","id":"gct1ab0p"}
+{"time":"2025-04-07T17:46:50.2384539+02:00","level":"INFO","msg":"sender: started","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:46:50.2384539+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:46:50.2384539+02:00","level":"INFO","msg":"handler: started","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:46:50.6350958+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T17:46:51.6157944+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:46:52.853441+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:46:52.8551798+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:46:56.4511604+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:46:56.4644635+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:47:10.5295828+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:52:33.9783576+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T17:52:33.9791199+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T17:52:34.9964338+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6457705,"progress":"130B/130B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6457705,"progress":"375B/375B"},{"desc":"uploading config.yaml","runtime_seconds":0.4394354,"progress":"884B/884B"}],"total_operations":3}}
+{"time":"2025-04-07T17:52:35.1393018+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T17:52:35.5866629+02:00","level":"INFO","msg":"stream: closing","id":"gct1ab0p"}
+{"time":"2025-04-07T17:52:35.5866629+02:00","level":"INFO","msg":"handler: closed","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:52:35.5866629+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:52:35.5866629+02:00","level":"INFO","msg":"sender: closed","stream_id":"gct1ab0p"}
+{"time":"2025-04-07T17:52:35.5938309+02:00","level":"INFO","msg":"stream: closed","id":"gct1ab0p"}
