@@ -1,0 +1,28 @@
+{"time":"2025-04-06T23:04:04.1724988+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250406_230403-pfm3spe5\\logs\\debug-core.log"}
+{"time":"2025-04-06T23:04:04.2969029+02:00","level":"INFO","msg":"created new stream","id":"pfm3spe5"}
+{"time":"2025-04-06T23:04:04.2969029+02:00","level":"INFO","msg":"stream: started","id":"pfm3spe5"}
+{"time":"2025-04-06T23:04:04.2969029+02:00","level":"INFO","msg":"sender: started","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:04:04.2969029+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:04:04.2969029+02:00","level":"INFO","msg":"handler: started","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:04:04.8584875+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T23:04:05.0142222+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:04:06.8403107+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:04:06.8418185+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:04:09.333236+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:04:09.3448579+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:04:10.7477552+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:04:31.2447624+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:10:27.7403795+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:10:27.7424038+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:10:30.011369+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:10:30.029657+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T23:10:31.5230589+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T23:16:51.2082302+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-06T23:16:51.2092525+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-06T23:16:52.0919331+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-06T23:16:52.2187393+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 19-19, summary, console lines 125-130","runtime_seconds":0.1268062}],"total_operations":1}}
+{"time":"2025-04-06T23:16:52.3580121+02:00","level":"INFO","msg":"stream: closing","id":"pfm3spe5"}
+{"time":"2025-04-06T23:16:52.3580121+02:00","level":"INFO","msg":"handler: closed","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:16:52.3580121+02:00","level":"INFO","msg":"sender: closed","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:16:52.3580121+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pfm3spe5"}
+{"time":"2025-04-06T23:16:52.3678099+02:00","level":"INFO","msg":"stream: closed","id":"pfm3spe5"}

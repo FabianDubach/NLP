@@ -1,0 +1,44 @@
+{"time":"2025-04-07T18:49:14.4351315+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_184914-latapden\\logs\\debug-core.log"}
+{"time":"2025-04-07T18:49:14.543206+02:00","level":"INFO","msg":"created new stream","id":"latapden"}
+{"time":"2025-04-07T18:49:14.543206+02:00","level":"INFO","msg":"stream: started","id":"latapden"}
+{"time":"2025-04-07T18:49:14.543206+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"latapden"}
+{"time":"2025-04-07T18:49:14.543206+02:00","level":"INFO","msg":"handler: started","stream_id":"latapden"}
+{"time":"2025-04-07T18:49:14.543206+02:00","level":"INFO","msg":"sender: started","stream_id":"latapden"}
+{"time":"2025-04-07T18:49:14.8186702+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T18:49:14.9020453+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:49:16.5468556+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:49:16.548363+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:49:19.2008699+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:49:19.2122299+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:49:21.0701364+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:49:21.2945304+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:09.6493571+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:09.6504469+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:22.4315824+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:22.4336036+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:25.8361354+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:25.8381263+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:28.2677898+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:28.2682959+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:29.4582025+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:29.45913+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:34.5616856+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:34.5626889+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:35.6936505+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:35.6941547+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:36.8473306+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:36.8486916+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:38.1966697+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:38.2686715+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:39.6861764+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:39.68668+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:51:41.2339083+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:51:41.2832943+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T18:51:41.2832943+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T18:51:42.119373+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T18:51:42.2918693+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 6-21","runtime_seconds":0.1724963}],"total_operations":1}}
+{"time":"2025-04-07T18:51:42.3847496+02:00","level":"INFO","msg":"stream: closing","id":"latapden"}
+{"time":"2025-04-07T18:51:42.3847496+02:00","level":"INFO","msg":"handler: closed","stream_id":"latapden"}
+{"time":"2025-04-07T18:51:42.3847496+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"latapden"}
+{"time":"2025-04-07T18:51:42.3847496+02:00","level":"INFO","msg":"sender: closed","stream_id":"latapden"}
+{"time":"2025-04-07T18:51:42.396236+02:00","level":"INFO","msg":"stream: closed","id":"latapden"}

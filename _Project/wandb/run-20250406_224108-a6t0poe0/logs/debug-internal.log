@@ -1,0 +1,21 @@
+{"time":"2025-04-06T22:41:08.08336+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250406_224108-a6t0poe0\\logs\\debug-core.log"}
+{"time":"2025-04-06T22:41:08.1898886+02:00","level":"INFO","msg":"created new stream","id":"a6t0poe0"}
+{"time":"2025-04-06T22:41:08.1906403+02:00","level":"INFO","msg":"stream: started","id":"a6t0poe0"}
+{"time":"2025-04-06T22:41:08.1906403+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"a6t0poe0"}
+{"time":"2025-04-06T22:41:08.1906403+02:00","level":"INFO","msg":"sender: started","stream_id":"a6t0poe0"}
+{"time":"2025-04-06T22:41:08.1906403+02:00","level":"INFO","msg":"handler: started","stream_id":"a6t0poe0"}
+{"time":"2025-04-06T22:41:08.528395+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T22:41:08.6169121+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:23.8984122+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:23.8998958+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:28.2998257+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:28.312323+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:31.1449243+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:31.1474102+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:33.7837018+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:33.786209+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:36.1636125+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:36.1997673+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:44.5231022+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:41:44.5246137+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:41:47.2787052+02:00","level":"INFO","msg":"Resuming system monitor"}

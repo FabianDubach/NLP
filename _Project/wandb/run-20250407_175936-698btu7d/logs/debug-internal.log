@@ -1,0 +1,22 @@
+{"time":"2025-04-07T17:59:36.3492733+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_175936-698btu7d\\logs\\debug-core.log"}
+{"time":"2025-04-07T17:59:36.4563979+02:00","level":"INFO","msg":"created new stream","id":"698btu7d"}
+{"time":"2025-04-07T17:59:36.4563979+02:00","level":"INFO","msg":"stream: started","id":"698btu7d"}
+{"time":"2025-04-07T17:59:36.4563979+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"698btu7d"}
+{"time":"2025-04-07T17:59:36.4563979+02:00","level":"INFO","msg":"sender: started","stream_id":"698btu7d"}
+{"time":"2025-04-07T17:59:36.4563979+02:00","level":"INFO","msg":"handler: started","stream_id":"698btu7d"}
+{"time":"2025-04-07T17:59:36.8540426+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T17:59:36.9354896+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:59:38.359796+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:59:38.36218+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:59:41.3913368+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:59:41.4048035+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:59:42.951536+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:04:38.5998107+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T18:04:38.6003263+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T18:04:39.4796487+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T18:04:39.6143432+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 54-54, summary, console lines 0-0","runtime_seconds":0.1346945}],"total_operations":1}}
+{"time":"2025-04-07T18:04:39.7454906+02:00","level":"INFO","msg":"stream: closing","id":"698btu7d"}
+{"time":"2025-04-07T18:04:39.7459365+02:00","level":"INFO","msg":"handler: closed","stream_id":"698btu7d"}
+{"time":"2025-04-07T18:04:39.7459365+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"698btu7d"}
+{"time":"2025-04-07T18:04:39.7459365+02:00","level":"INFO","msg":"sender: closed","stream_id":"698btu7d"}
+{"time":"2025-04-07T18:04:39.7532705+02:00","level":"INFO","msg":"stream: closed","id":"698btu7d"}

@@ -1,0 +1,40 @@
+
+Epoch 1/2
+Training:   0%|          | 0/274 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_8732\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training: 100%|██████████| 274/274 [00:15<00:00, 17.13it/s, loss=1.6073, acc=0.2103]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 25.30it/s]
+Train Loss: 1.6086, Train Acc: 0.2103
+Val Loss: 1.6081, Val Acc: 0.2200
+Validation accuracy improved from 0.0000 to 0.2200
+
+Epoch 2/2
+Training: 100%|██████████| 274/274 [00:14<00:00, 18.86it/s, loss=1.5854, acc=0.2163]
+Validation: 100%|██████████| 32/32 [00:01<00:00, 29.89it/s]
+Train Loss: 1.6056, Train Acc: 0.2163
+Val Loss: 1.6064, Val Acc: 0.2390
+Validation accuracy improved from 0.2200 to 0.2390
+Training completed in 0.55 minutes
+Best validation accuracy: 0.2390
+RNN training complete! Best validation accuracy: 0.2390
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.
+QARNNModel(
+  (question_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (choice_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (scoring): Sequential(
+    (0): Linear(in_features=512, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+    (3): Linear(in_features=256, out_features=1, bias=True)
+  )
+)

@@ -1,0 +1,139 @@
+
+Epoch 1/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  4.03it/s, loss=1.6105, acc=0.1959]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.02it/s]
+
+Epoch 1/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.91it/s, loss=1.6090, acc=0.2002]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.00it/s]
+
+Epoch 1/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  4.02it/s, loss=1.6083, acc=0.1928]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.93it/s]
+
+Epoch 1/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.91it/s, loss=1.6094, acc=0.1988]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.80it/s]
+Validation accuracy improved from 0.0000 to 0.1960
+Train Loss: 1.6095, Train Acc: 0.1988
+Val Loss: 1.6095, Val Acc: 0.1960
+
+Epoch 2/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  4.00it/s, loss=1.6098, acc=0.2055]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.86it/s]
+Validation accuracy improved from 0.1960 to 0.2080
+Train Loss: 1.6095, Train Acc: 0.2055
+Val Loss: 1.6095, Val Acc: 0.2080
+
+Epoch 3/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  4.02it/s, loss=1.6097, acc=0.1999]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.01it/s]
+Train Loss: 1.6095, Train Acc: 0.1999
+Val Loss: 1.6095, Val Acc: 0.2070
+
+Epoch 4/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.90it/s, loss=1.6096, acc=0.2028]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.39it/s]
+Train Loss: 1.6094, Train Acc: 0.2028
+Val Loss: 1.6095, Val Acc: 0.1910
+
+Epoch 5/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.85it/s, loss=1.6098, acc=0.1981]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.84it/s]
+Train Loss: 1.6094, Train Acc: 0.1981
+Val Loss: 1.6096, Val Acc: 0.1990
+
+Epoch 6/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.83it/s, loss=1.6088, acc=0.1996]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.64it/s]
+Train Loss: 1.6095, Train Acc: 0.1996
+Val Loss: 1.6096, Val Acc: 0.1770
+
+Epoch 7/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.85it/s, loss=1.6074, acc=0.2076]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.84it/s]
+Train Loss: 1.6092, Train Acc: 0.2076
+Val Loss: 1.6097, Val Acc: 0.1770
+
+Epoch 8/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.80it/s, loss=1.6102, acc=0.2022]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.70it/s]
+Train Loss: 1.6093, Train Acc: 0.2022
+Val Loss: 1.6096, Val Acc: 0.1780
+
+Epoch 9/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.81it/s, loss=1.6087, acc=0.1915]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.89it/s]
+Train Loss: 1.6095, Train Acc: 0.1915
+Val Loss: 1.6096, Val Acc: 0.1730
+
+Epoch 10/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.83it/s, loss=1.6090, acc=0.2083]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.57it/s]
+Train Loss: 1.6093, Train Acc: 0.2083
+Val Loss: 1.6098, Val Acc: 0.1700
+
+Epoch 11/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.83it/s, loss=1.6142, acc=0.2017]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.06it/s]
+Train Loss: 1.6096, Train Acc: 0.2017
+Val Loss: 1.6097, Val Acc: 0.1800
+
+Epoch 12/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.89it/s, loss=1.6087, acc=0.2010]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.45it/s]
+Train Loss: 1.6096, Train Acc: 0.2010
+Val Loss: 1.6096, Val Acc: 0.1850
+
+Epoch 13/20
+Training: 100%|██████████| 69/69 [00:18<00:00,  3.74it/s, loss=1.6077, acc=0.2033]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.21it/s]
+Train Loss: 1.6095, Train Acc: 0.2033
+Val Loss: 1.6096, Val Acc: 0.2010
+
+Epoch 14/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.86it/s, loss=1.6086, acc=0.2036]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.70it/s]
+Validation accuracy improved from 0.2080 to 0.2170
+Train Loss: 1.6093, Train Acc: 0.2036
+Val Loss: 1.6094, Val Acc: 0.2170
+
+Epoch 15/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.87it/s, loss=1.6094, acc=0.1983]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.84it/s]
+Train Loss: 1.6095, Train Acc: 0.1983
+Val Loss: 1.6093, Val Acc: 0.2050
+
+Epoch 16/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.86it/s, loss=1.6102, acc=0.1993]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.81it/s]
+Train Loss: 1.6095, Train Acc: 0.1993
+Val Loss: 1.6094, Val Acc: 0.1990
+
+Epoch 17/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.99it/s, loss=1.6098, acc=0.2030]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.96it/s]
+Validation accuracy improved from 0.2170 to 0.2190
+Train Loss: 1.6094, Train Acc: 0.2030
+Val Loss: 1.6093, Val Acc: 0.2190
+
+Epoch 18/20
+Training: 100%|██████████| 69/69 [00:16<00:00,  4.09it/s, loss=1.6089, acc=0.1988]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.97it/s]
+Validation accuracy improved from 0.2190 to 0.2280
+Train Loss: 1.6095, Train Acc: 0.1988
+Val Loss: 1.6092, Val Acc: 0.2280
+
+Epoch 19/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  4.00it/s, loss=1.6104, acc=0.1986]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.86it/s]
+Train Loss: 1.6096, Train Acc: 0.1986
+Val Loss: 1.6092, Val Acc: 0.2210
+
+Epoch 20/20
+Training: 100%|██████████| 69/69 [00:17<00:00,  3.92it/s, loss=1.6086, acc=0.2005]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.53it/s]
+Train Loss: 1.6095, Train Acc: 0.2005
+Val Loss: 1.6092, Val Acc: 0.2270
+Training completed in 6.40 minutes
+Best validation accuracy: 0.2280

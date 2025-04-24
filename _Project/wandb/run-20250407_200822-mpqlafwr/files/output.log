@@ -1,0 +1,21 @@
+Epoch 17/50:  34%|███▍      | 17/50 [01:40<03:15,  5.93s/it, train_loss=1.58, train_acc=0.26, val_acc=0.231] 
+New best validation accuracy: 0.2200
+New best validation accuracy: 0.2210
+No improvement for 1 epochs (patience: 5)
+New best validation accuracy: 0.2260
+No improvement for 1 epochs (patience: 5)
+No improvement for 2 epochs (patience: 5)
+No improvement for 3 epochs (patience: 5)
+New best validation accuracy: 0.2290
+New best validation accuracy: 0.2310
+No improvement for 1 epochs (patience: 5)
+No improvement for 2 epochs (patience: 5)
+New best validation accuracy: 0.2360
+No improvement for 1 epochs (patience: 5)
+No improvement for 2 epochs (patience: 5)
+No improvement for 3 epochs (patience: 5)
+No improvement for 4 epochs (patience: 5)
+No improvement for 5 epochs (patience: 5)
+Early stopping triggered! No improvement for 5 epochs.
+
+Early stopping triggered after 17 epochs!

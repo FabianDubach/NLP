@@ -1,0 +1,18 @@
+{"time":"2025-04-06T22:24:01.4930251+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250406_222400-jqfgh0uo\\logs\\debug-core.log"}
+{"time":"2025-04-06T22:24:01.6005277+02:00","level":"INFO","msg":"created new stream","id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:01.6005277+02:00","level":"INFO","msg":"stream: started","id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:01.6005277+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:01.6005277+02:00","level":"INFO","msg":"sender: started","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:01.6005277+02:00","level":"INFO","msg":"handler: started","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:01.9559707+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-06T22:24:02.0371817+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-06T22:24:08.0786076+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-06T22:24:08.1444732+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-06T22:24:08.1444732+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-06T22:24:08.7858385+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-06T22:24:09.0256255+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-06T22:24:09.0332526+02:00","level":"INFO","msg":"stream: closing","id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:09.0332526+02:00","level":"INFO","msg":"handler: closed","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:09.0332526+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:09.0332526+02:00","level":"INFO","msg":"sender: closed","stream_id":"jqfgh0uo"}
+{"time":"2025-04-06T22:24:09.0436159+02:00","level":"INFO","msg":"stream: closed","id":"jqfgh0uo"}

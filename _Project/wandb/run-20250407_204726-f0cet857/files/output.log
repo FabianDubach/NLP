@@ -1,0 +1,223 @@
+
+Epoch 1/50
+Training:   0%|          | 0/69 [00:00<?, ?it/s]C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  question_tensors = [torch.tensor(q, dtype=torch.float32) for q in questions]
+C:\Users\fabia\AppData\Local\Temp\ipykernel_21744\665787113.py:7: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  choice_tensors = [[torch.tensor(c, dtype=torch.float32) for c in cs] for cs in choices]
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.85it/s, loss=1.6104, acc=0.2012]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.68it/s]
+Train Loss: 1.6095, Train Acc: 0.2012
+Val Loss: 1.6095, Val Acc: 0.1790
+Validation accuracy improved from 0.0000 to 0.1790
+
+Epoch 2/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.76it/s, loss=1.6079, acc=0.2023]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.40it/s]
+Train Loss: 1.6094, Train Acc: 0.2023
+Val Loss: 1.6095, Val Acc: 0.1760
+No improvement for 1 epochs (patience: 10)
+
+Epoch 3/50
+Training: 100%|██████████| 69/69 [00:13<00:00,  5.26it/s, loss=1.6097, acc=0.2007]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.87it/s]
+Train Loss: 1.6094, Train Acc: 0.2007
+Val Loss: 1.6095, Val Acc: 0.1840
+Validation accuracy improved from 0.1790 to 0.1840
+
+Epoch 4/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.66it/s, loss=1.6114, acc=0.1964]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.91it/s]
+Train Loss: 1.6095, Train Acc: 0.1964
+Val Loss: 1.6095, Val Acc: 0.1870
+Validation accuracy improved from 0.1840 to 0.1870
+
+Epoch 5/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.76it/s, loss=1.6082, acc=0.2008]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  4.75it/s]
+Train Loss: 1.6094, Train Acc: 0.2008
+Val Loss: 1.6094, Val Acc: 0.1900
+Validation accuracy improved from 0.1870 to 0.1900
+
+Epoch 6/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.49it/s, loss=1.6061, acc=0.2019]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.44it/s]
+Train Loss: 1.6093, Train Acc: 0.2019
+Val Loss: 1.6094, Val Acc: 0.1910
+Validation accuracy improved from 0.1900 to 0.1910
+
+Epoch 7/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.47it/s, loss=1.6083, acc=0.1933]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.52it/s]
+Train Loss: 1.6093, Train Acc: 0.1933
+Val Loss: 1.6094, Val Acc: 0.1910
+No improvement for 1 epochs (patience: 10)
+
+Epoch 8/50
+Training: 100%|██████████| 69/69 [00:12<00:00,  5.33it/s, loss=1.6056, acc=0.2144]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.90it/s]
+Train Loss: 1.6091, Train Acc: 0.2144
+Val Loss: 1.6094, Val Acc: 0.1890
+No improvement for 2 epochs (patience: 10)
+
+Epoch 9/50
+Training: 100%|██████████| 69/69 [00:13<00:00,  5.00it/s, loss=1.6076, acc=0.2018]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.16it/s]
+Train Loss: 1.6093, Train Acc: 0.2018
+Val Loss: 1.6094, Val Acc: 0.1950
+Validation accuracy improved from 0.1910 to 0.1950
+
+Epoch 10/50
+Training: 100%|██████████| 69/69 [00:12<00:00,  5.33it/s, loss=1.6071, acc=0.2102]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.93it/s]
+Train Loss: 1.6091, Train Acc: 0.2102
+Val Loss: 1.6094, Val Acc: 0.1880
+No improvement for 1 epochs (patience: 10)
+
+Epoch 11/50
+Training: 100%|██████████| 69/69 [00:13<00:00,  4.99it/s, loss=1.6082, acc=0.2046]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.93it/s]
+Train Loss: 1.6092, Train Acc: 0.2046
+Val Loss: 1.6094, Val Acc: 0.1910
+No improvement for 2 epochs (patience: 10)
+
+Epoch 12/50
+Training: 100%|██████████| 69/69 [00:13<00:00,  5.05it/s, loss=1.6094, acc=0.1993]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.95it/s]
+Train Loss: 1.6094, Train Acc: 0.1993
+Val Loss: 1.6093, Val Acc: 0.1980
+Validation accuracy improved from 0.1950 to 0.1980
+
+Epoch 13/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.84it/s, loss=1.6091, acc=0.2116]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.33it/s]
+Train Loss: 1.6092, Train Acc: 0.2116
+Val Loss: 1.6093, Val Acc: 0.1960
+No improvement for 1 epochs (patience: 10)
+
+Epoch 14/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.66it/s, loss=1.6086, acc=0.2090]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.21it/s]
+Train Loss: 1.6090, Train Acc: 0.2090
+Val Loss: 1.6093, Val Acc: 0.1990
+Validation accuracy improved from 0.1980 to 0.1990
+
+Epoch 15/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.76it/s, loss=1.6088, acc=0.2005]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.88it/s]
+Train Loss: 1.6091, Train Acc: 0.2005
+Val Loss: 1.6093, Val Acc: 0.1980
+No improvement for 1 epochs (patience: 10)
+
+Epoch 16/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.63it/s, loss=1.6078, acc=0.2097]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.43it/s]
+Train Loss: 1.6090, Train Acc: 0.2097
+Val Loss: 1.6093, Val Acc: 0.1980
+No improvement for 2 epochs (patience: 10)
+
+Epoch 17/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.33it/s, loss=1.6089, acc=0.2122]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.63it/s]
+Train Loss: 1.6089, Train Acc: 0.2122
+Val Loss: 1.6093, Val Acc: 0.1970
+No improvement for 3 epochs (patience: 10)
+
+Epoch 18/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.39it/s, loss=1.6084, acc=0.2103]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.17it/s]
+Train Loss: 1.6089, Train Acc: 0.2103
+Val Loss: 1.6092, Val Acc: 0.2000
+Validation accuracy improved from 0.1990 to 0.2000
+
+Epoch 19/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.70it/s, loss=1.6107, acc=0.2153]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.74it/s]
+Train Loss: 1.6088, Train Acc: 0.2153
+Val Loss: 1.6092, Val Acc: 0.1940
+No improvement for 1 epochs (patience: 10)
+
+Epoch 20/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.78it/s, loss=1.6059, acc=0.2042]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.57it/s]
+Train Loss: 1.6089, Train Acc: 0.2042
+Val Loss: 1.6092, Val Acc: 0.1910
+No improvement for 2 epochs (patience: 10)
+
+Epoch 21/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.67it/s, loss=1.6081, acc=0.2144]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.60it/s]
+Train Loss: 1.6087, Train Acc: 0.2144
+Val Loss: 1.6092, Val Acc: 0.1910
+No improvement for 3 epochs (patience: 10)
+
+Epoch 22/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.57it/s, loss=1.6090, acc=0.2100]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.83it/s]
+Train Loss: 1.6087, Train Acc: 0.2100
+Val Loss: 1.6092, Val Acc: 0.1950
+No improvement for 4 epochs (patience: 10)
+
+Epoch 23/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.79it/s, loss=1.6098, acc=0.2120]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.29it/s]
+Train Loss: 1.6087, Train Acc: 0.2120
+Val Loss: 1.6091, Val Acc: 0.1970
+No improvement for 5 epochs (patience: 10)
+
+Epoch 24/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.67it/s, loss=1.6113, acc=0.2119]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.39it/s]
+Train Loss: 1.6087, Train Acc: 0.2119
+Val Loss: 1.6091, Val Acc: 0.2000
+No improvement for 6 epochs (patience: 10)
+
+Epoch 25/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.67it/s, loss=1.6099, acc=0.2178]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  6.59it/s]
+Train Loss: 1.6086, Train Acc: 0.2178
+Val Loss: 1.6091, Val Acc: 0.1950
+No improvement for 7 epochs (patience: 10)
+
+Epoch 26/50
+Training: 100%|██████████| 69/69 [00:14<00:00,  4.75it/s, loss=1.6095, acc=0.2152]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.00it/s]
+Train Loss: 1.6084, Train Acc: 0.2152
+Val Loss: 1.6091, Val Acc: 0.1980
+No improvement for 8 epochs (patience: 10)
+
+Epoch 27/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.58it/s, loss=1.6104, acc=0.2131]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  7.49it/s]
+Train Loss: 1.6085, Train Acc: 0.2131
+Val Loss: 1.6091, Val Acc: 0.1970
+No improvement for 9 epochs (patience: 10)
+
+Epoch 28/50
+Training: 100%|██████████| 69/69 [00:15<00:00,  4.55it/s, loss=1.6058, acc=0.2168]
+Validation: 100%|██████████| 8/8 [00:01<00:00,  5.82it/s]
+Train Loss: 1.6084, Train Acc: 0.2168
+Val Loss: 1.6090, Val Acc: 0.2000
+No improvement for 10 epochs (patience: 10)
+
+Early stopping triggered after 28 epochs! No improvement for 10 epochs.
+Training completed in 7.34 minutes
+Best validation accuracy: 0.2000
+RNN training complete! Best validation accuracy: 0.2000
+QARNNModel(
+  (question_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (choice_encoder): Sequential(
+    (0): Linear(in_features=300, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+  )
+  (scoring): Sequential(
+    (0): Linear(in_features=512, out_features=256, bias=True)
+    (1): ReLU()
+    (2): Dropout(p=0.2, inplace=False)
+    (3): Linear(in_features=256, out_features=1, bias=True)
+  )
+)

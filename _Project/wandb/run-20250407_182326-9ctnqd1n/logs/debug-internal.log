@@ -1,0 +1,22 @@
+{"time":"2025-04-07T18:23:26.367291+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_182326-9ctnqd1n\\logs\\debug-core.log"}
+{"time":"2025-04-07T18:23:26.4742978+02:00","level":"INFO","msg":"created new stream","id":"9ctnqd1n"}
+{"time":"2025-04-07T18:23:26.4742978+02:00","level":"INFO","msg":"stream: started","id":"9ctnqd1n"}
+{"time":"2025-04-07T18:23:26.4742978+02:00","level":"INFO","msg":"sender: started","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:23:26.4742978+02:00","level":"INFO","msg":"handler: started","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:23:26.4742978+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:23:29.7649375+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T18:23:29.8453981+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:23:31.3705219+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:23:31.3715369+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:23:33.8976928+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:23:33.9084415+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T18:23:35.513576+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T18:28:27.2169558+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T18:28:27.2169558+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T18:28:28.2252496+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.4297618,"progress":"885B/885B"}],"total_operations":1}}
+{"time":"2025-04-07T18:28:28.3932689+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T18:28:28.6837204+02:00","level":"INFO","msg":"stream: closing","id":"9ctnqd1n"}
+{"time":"2025-04-07T18:28:28.6837204+02:00","level":"INFO","msg":"handler: closed","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:28:28.6837204+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:28:28.6840605+02:00","level":"INFO","msg":"sender: closed","stream_id":"9ctnqd1n"}
+{"time":"2025-04-07T18:28:28.6919878+02:00","level":"INFO","msg":"stream: closed","id":"9ctnqd1n"}

@@ -1,0 +1,11 @@
+2025-04-07 19:57:55,092 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():647] Logging user logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_195755-bgbq76ws\logs\debug.log
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to d:\Dateien\Github_FabianDubach\NLP\_Project\wandb\run-20250407_195755-bgbq76ws\logs\debug-internal.log
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000027F0A85F0B0>
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_init.py:init():761] calling init triggers
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'model': 'word_embedding', 'embedding_dim': 300, 'hidden_dim': 128, 'batch_size': 64, 'epoch': 50, 'dropout_rate': 0.2, 'weight_decay': 0.001, '_wandb': {}}
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_init.py:init():773] finishing previous run: ub3hm85f
+2025-04-07 19:57:55,093 INFO    MainThread:9932 [wandb_run.py:_finish():2112] finishing run fabian-dubach-hochschule-luzern/CommonsenseQA/ub3hm85f
+2025-04-07 19:57:55,094 INFO    MainThread:9932 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-04-07 19:57:55,094 INFO    MainThread:9932 [wandb_run.py:_restore():2322] restore
+2025-04-07 19:57:55,094 INFO    MainThread:9932 [wandb_run.py:_restore():2328] restore done

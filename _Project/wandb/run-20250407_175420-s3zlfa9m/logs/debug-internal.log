@@ -1,0 +1,22 @@
+{"time":"2025-04-07T17:54:20.3159993+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"d:\\Dateien\\Github_FabianDubach\\NLP\\_Project\\wandb\\run-20250407_175420-s3zlfa9m\\logs\\debug-core.log"}
+{"time":"2025-04-07T17:54:20.4237275+02:00","level":"INFO","msg":"created new stream","id":"s3zlfa9m"}
+{"time":"2025-04-07T17:54:20.424235+02:00","level":"INFO","msg":"stream: started","id":"s3zlfa9m"}
+{"time":"2025-04-07T17:54:20.424235+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:54:20.424235+02:00","level":"INFO","msg":"handler: started","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:54:20.424235+02:00","level":"INFO","msg":"sender: started","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:54:20.7755665+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T17:54:20.8634524+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:54:22.1665916+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:54:22.1681947+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:54:25.033004+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:54:25.0466764+02:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T17:54:26.3273188+02:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T17:59:06.8192559+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T17:59:06.8197699+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T17:59:07.6444395+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T17:59:07.8229164+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 57-57, summary, console lines 0-0","runtime_seconds":0.1784769}],"total_operations":1}}
+{"time":"2025-04-07T17:59:07.8780825+02:00","level":"INFO","msg":"stream: closing","id":"s3zlfa9m"}
+{"time":"2025-04-07T17:59:07.8780825+02:00","level":"INFO","msg":"handler: closed","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:59:07.8780825+02:00","level":"INFO","msg":"sender: closed","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:59:07.8780825+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s3zlfa9m"}
+{"time":"2025-04-07T17:59:07.8859036+02:00","level":"INFO","msg":"stream: closed","id":"s3zlfa9m"}
