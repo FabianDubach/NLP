@@ -37,4 +37,9 @@ override.tf.json
 terraform.rc
 
 # Ignore .pt files
-cho "*.pt" >> .gitignore
+*.pt
+*.wandb
+*.json
+*.log
+*.yaml
+*.txt
